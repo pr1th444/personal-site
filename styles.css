@@ -1,0 +1,51 @@
+.cover-container {
+  min-height: 100vh;
+  background-image: url(./titlescreen-new.png); /* 🔁 update path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.hero-greeting{
+    color: #a15389;
+}
+
+
+
+
+.lexend-giga-font {
+  font-family: "Lexend Giga", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+.pfp{
+    border-radius: 50%;
+}
+
+.center-flex{
+    display: flex;
+    justify-content: center;
+}
+
+.my-name{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+
+}
+
+.subtext{
+    display: flex;
+    justify-content:center ;
+    font-size: 100px;
+}
